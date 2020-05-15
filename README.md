@@ -97,8 +97,8 @@ let a = {};
 let b = {key:'b'};
 let c = {key:'c'};
 
-a[b]=123;
-a[c]=456;
+a[b] = 123;
+a[c] = 456;
 
 console.log(a[b]);
 ```
@@ -114,8 +114,8 @@ let a = {};
 let b = 'object';
 let c = 'object';
 
-a[b]=123;
-a[c]=456;
+a[b] = 123;
+a[c] = 456;
 ```
 
 ---
