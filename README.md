@@ -1,4 +1,5 @@
 <div align="center">
+  <img width="625" height="268" src="https://github.com/ninja-js/js-interview/blob/master/img/ninja_inter.png">
   <h1>Вопросы и ответы для собеседования Front-end/JS разработчика и не только</h1>
   <h5>Хотите подготовиться к собеседованию по JavaScript и ищете вопросы, на которых можно попрактиковаться? Если так — считайте, что ваши поиски окончены.</h5>
 </div>
